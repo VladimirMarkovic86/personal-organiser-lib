@@ -1,4 +1,4 @@
-(defproject org.clojars.vladimirmarkovic86/personal-organiser-lib "0.1.3"
+(defproject org.clojars.vladimirmarkovic86/personal-organiser-lib "0.1.4"
   :description "Personal organiser library"
   :url "http://github.com/VladimirMarkovic86/personal-organiser-lib"
   :license {:name "Eclipse Public License"
@@ -9,5 +9,6 @@
 
   :min-lein-version "2.0.0"
   
-  :source-paths ["src/clj"])
+  :source-paths ["src/clj"]
+  :test-paths ["test/clj"])
 
